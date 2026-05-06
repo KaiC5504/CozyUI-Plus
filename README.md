@@ -43,7 +43,7 @@ Feel free to join in the creation of my pack, which is now open-source under the
 
 | Mod Name 模组名称 | Link 链接 | - |
 |:------:|:------:|:------:|
-OptiGUI | [🔗 Modrinth](https://modrinth.com/mod/optigui) | 🔄 Optional
+OptiGUI | [🔗 Modrinth](https://modrinth.com/mod/optigui) | ⭐ Recommended
 Apple Skin - 苹果皮 | [🔗 Modrinth](https://modrinth.com/mod/appleskin) | 🔄 Optional
 Detail Armor Bar - 细节盔甲 | [🔗 Modrinth](https://modrinth.com/mod/detail-armor-bar) | 🔄 Optional
 Litematica - 投影 | [🔗 Modrinth](https://modrinth.com/mod/litematica) | 🔄 Optional
@@ -128,12 +128,12 @@ Some buttons will be animated in game versions ≥1.21
 
 - `pack.mcmeta` rewritten for the new format-version schema (`min_format: 84` / `max_format: 84`).
 - Removed `assets/minecraft/optifine/color.properties` (OptiFine-only loading-screen tint); kept `assets/minecraft/optifine/gui/container/` so Fabric's **OptiGUI** mod still provides the colored shulker / dropper / dispenser / ender chest backgrounds.
-- README: GameVersion → 26.1.x; OptiGUI marked as Optional.
+- README: GameVersion → 26.1.x.
 - New release variant `CozyUI+_v1.11_icons-only.zip` — keeps the small UI glyphs (so the enchantment book icons still render) but drops the heavy NotoSans / FluentEmoji bitmap textures, for players who want vanilla text with CozyUI+'s icons.
 
 - 重写 `pack.mcmeta` 以适配新的版本格式（`min_format: 84` / `max_format: 84`）。
 - 删除 `assets/minecraft/optifine/color.properties`（仅 OptiFine 使用的加载界面颜色配置）；保留 `assets/minecraft/optifine/gui/container/`，使 Fabric 上的 **OptiGUI** 模组仍能为潜影盒、投掷器、发射器、末影箱提供彩色背景。
-- README：游戏版本改为 26.1.x；OptiGUI 标记为可选。
+- README：游戏版本改为 26.1.x。
 - 新增第三种发布变体 `CozyUI+_v1.11_icons-only.zip` —— 保留小型 UI 字体图标（附魔图标仍可显示），但移除较大的 NotoSans / FluentEmoji 位图字体，适合希望使用原版字体但保留 CozyUI+ 图标的玩家。
 
 **Licensing / 授权说明**
