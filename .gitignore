@@ -1,0 +1,7 @@
+# Transient working folders for the 26.1.2 update
+_downloads/
+dist/
+tools/inventory.md
+
+# GUI sprite migration quarantine (anywhere under pack/)
+_legacy_removed/
